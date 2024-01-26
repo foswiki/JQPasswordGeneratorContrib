@@ -1,0 +1,12 @@
+!noci
+data/System/JQPasswordGeneratorContrib.txt 0644
+lib/Foswiki/Contrib/JQPasswordGeneratorContrib/Config.spec 0644
+lib/Foswiki/Contrib/JQPasswordGeneratorContrib/Core.pm 0644
+lib/Foswiki/Contrib/JQPasswordGeneratorContrib/DEPENDENCIES 0644
+lib/Foswiki/Contrib/JQPasswordGeneratorContrib.pm 0644
+pub/System/JQPasswordGeneratorContrib/build/pkg.js 0644
+pub/System/JQPasswordGeneratorContrib/build/pkg.js.gz 0644
+pub/System/JQPasswordGeneratorContrib/build/pkg.uncompressed.js 0644
+pub/System/JQPasswordGeneratorContrib/lib/jen.js 0644
+pub/System/JQPasswordGeneratorContrib/Makefile 0644
+pub/System/JQPasswordGeneratorContrib/src/passwordGenerator.js 0644
